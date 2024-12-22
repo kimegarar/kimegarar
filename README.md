@@ -1,5 +1,5 @@
 ## Hi everyone, 
-I am a dissident artist, from the fine and contemporary arts in general, I was tattoo artist a few years ago and also musician using ablenton and other programs in my drift shipwreck (from video editors, vectors to graphic design, etc.)
+I am a dissident artist, from the fine and contemporary arts in general, I was tattoo artist a few years ago and also musician using ablenton and other programs in my drift (from video editors, vectors to graphic design, etc.)
 Restarting again, and taking the first steps with Python 3
 
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
