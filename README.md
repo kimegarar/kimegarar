@@ -1,6 +1,7 @@
-## Hi everyone, 
+## Hi everyone,
 I am a dissident artist, from the fine and contemporary arts in general, I was tattoo artist a few years ago and also musician using ablenton and other programs in my drift (from video editors, vectors to graphic design, etc.)
 Restarting again, and taking the first steps with Python 3
+<img width="1193" height="404" alt="Screenshot 2025-10-21 at 10 28 31" src="https://github.com/user-attachments/assets/79cfb392-ec75-41db-860b-f270f6f040d7" />
 
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
