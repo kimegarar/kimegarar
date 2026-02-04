@@ -7,6 +7,12 @@ Creative Python Developer with a background in Fine Arts, Tattooing & Electronic
 
 see you there /
 nos vemos gente!
+
+### Tech Stack
+* **Languages:** Python 3
+* **Data:** SQLite, SQLAlchemy
+* **GUI:** Flask, Tkinter
+* **Tools:** PyCharm, Git
 <!--
 **kimegarar/kimegarar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
