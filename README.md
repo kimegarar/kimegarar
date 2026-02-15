@@ -4,6 +4,9 @@ Creative Python Developer with a background in Fine Arts, Tattooing & Electronic
 <img width="1193" height="404" alt="Screenshot 2025-10-21 at 10 28 31" src="https://github.com/user-attachments/assets/79cfb392-ec75-41db-860b-f270f6f040d7" />
 
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+<a href="https://www.credly.com/badges/5e7d7700-2b0f-4b2a-a681-e898cc97479c">
+  <img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="110" alt="Credly Badge">
+</a>
 
 see you there /
 nos vemos gente!
