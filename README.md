@@ -7,6 +7,8 @@ Creative Python Developer with a background in Fine Arts, Tattooing & Electronic
 <a href="https://www.credly.com/badges/5e7d7700-2b0f-4b2a-a681-e898cc97479c">
   <img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="110" alt="Credly Badge">
 </a>
+<img width="110" alt="python-essentials-2" src="https://github.com/user-attachments/assets/f8372eec-90e2-4dcd-85ee-ae9f689bfdd3" />
+
 
 see you there /
 nos vemos gente!
