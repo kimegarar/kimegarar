@@ -20,7 +20,7 @@ nos vemos gente!
 * **Languages:** Python 3
 * **Data:** SQLite, SQLAlchemy, PostgreSQL
 * **GUI:** Flask, Tkinter
-* **Tools:** PyCharm, Git, Kaggle, Jupyther Notebook
+* **Tools:** PyCharm, Git, Kaggle, Jupyther Notebook, VS code
 <!--
 **kimegarar/kimegarar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
